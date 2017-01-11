@@ -1,6 +1,5 @@
 package com.javacodegeeks.examples.realtimeapp.part2.services;
 
-
 import java.util.List;
 
 import javax.annotation.PostConstruct;
